@@ -1,0 +1,9 @@
+{
+  "raw_rows": 4742,
+  "duplicate_transaction_ids": 15,
+  "missing_regions_imputed": 120,
+  "invalid_quantity_rows": 10,
+  "invalid_price_rows": 10,
+  "clean_rows": 4707,
+  "rows_removed": 35
+}

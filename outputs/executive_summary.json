@@ -1,0 +1,13 @@
+{
+  "months": 18,
+  "unique_customers": 638,
+  "total_revenue": 10954458.55,
+  "total_profit": 7426078.55,
+  "profit_margin_pct": 67.79,
+  "weighted_churn_rate_pct": 13.96,
+  "peak_revenue_month": "2024-01",
+  "highest_churn_month": "2023-07",
+  "top_region_by_revenue": "Europe",
+  "top_product_by_profit": "Enterprise License",
+  "dimension_rows": 20
+}

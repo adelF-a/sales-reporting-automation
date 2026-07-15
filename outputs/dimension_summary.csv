@@ -1,0 +1,21 @@
+Region,Product,Transactions,Revenue,Profit,Profit_Margin_Pct
+Europe,Enterprise License,307,1453287.51,1023487.51,70.43
+Asia-Pacific,Enterprise License,290,1390761.6,979161.6,70.4
+North America,Enterprise License,281,1336857.16,944857.16,70.68
+Latin America,Enterprise License,265,1316087.31,928637.31,70.56
+Asia-Pacific,Premium Maintenance,316,812308.03,532468.03,65.55
+Europe,Premium Maintenance,319,806649.78,531209.78,65.85
+Latin America,Premium Maintenance,275,703887.99,461447.99,65.56
+North America,Premium Maintenance,273,689971.84,453471.84,65.72
+Latin America,Basic Support,305,345823.07,264553.07,76.5
+Asia-Pacific,Basic Support,290,342704.34,261504.34,76.31
+Europe,Basic Support,289,340996.64,260356.64,76.35
+North America,Basic Support,285,338496.88,257996.88,76.22
+Asia-Pacific,Consulting Service,299,205459.3,83869.3,40.82
+Latin America,Consulting Service,274,193886.26,80276.26,41.4
+North America,Consulting Service,272,183933.47,75783.47,41.2
+Europe,Consulting Service,247,180751.6,74701.6,41.33
+Unknown,Enterprise License,33,165821.05,116471.05,70.24
+Unknown,Premium Maintenance,29,81799.98,54299.98,66.38
+Unknown,Basic Support,30,41690.11,31890.11,76.49
+Unknown,Consulting Service,28,23284.63,9634.63,41.38
